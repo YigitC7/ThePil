@@ -34,27 +34,3 @@ Açık kaynak kodlu olması ile birlikte GPL V3 lisansı ile bu depodan hem setu
   <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('git clone https://github.com/YigitC7/ThePil && cd ThePil && sh setup.sh')"></button>
   <pre><code>git clone https://github.com/YigitC7/ThePil && cd ThePil && sh setup.sh</code></pre>
 </div>
-
-# ThePil
-
-This is a CUI-based battery control program that runs on GNU Linux operating systems.
-Similar to acpi, but locally developed, national, and outputs in Turkish.
-It is open-source and available under the GPL V3 license. From this repository, you can access both the setup script and the source code. This is a simple program that does not follow versioning.
-
-### Download:
-<div style="background-color:#000; color:#fff; padding:10px; border-radius:5px; position:relative;"> <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('git clone https://github.com/YigitC7/ThePil')"></button> <pre><code>git clone https://github.com/YigitC7/ThePil</code></pre> </div>
-
-### Open the folder:
-<div style="background-color:#000; color:#fff; padding:10px; border-radius:5px; position:relative;"> <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('cd ThePil')"></button> <pre><code>cd ThePil</code></pre> </div>
-
-### Install on your system:
-<div style="background-color:#000; color:#fff; padding:10px; border-radius:5px; position:relative;"> <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('sh setup.sh')"></button> <pre><code>sh setup.sh</code></pre> </div>
-
-### To remove from the system:
-<div style="background-color:#000; color:#fff; padding:10px; border-radius:5px; position:relative;"> <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('sh remove.sh')"></button> <pre><code>sh remove.sh</code></pre> </div>
-
-### Download and install in one step:
-<div style="background-color:#000; color:#fff; padding:10px; border-radius:5px; position:relative;"> <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('git clone https://github.com/YigitC7/ThePil && cd ThePil && sh setup.sh')"></button> <pre><code>git clone https://github.com/YigitC7/ThePil && cd ThePil && sh setup.sh</code></pre> </div>
-
-Let me know if you'd like to adjust anything further!
-
