@@ -32,3 +32,5 @@ This is a CUI battery checker program that runs on GNU Linux operating systems. 
   <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('git clone https://github.com/YigitC7/ThePil && cd ThePil && sh setup.sh')"></button>
   <pre><code>git clone https://github.com/YigitC7/ThePil && cd ThePil && sh setup.sh</code></pre>
 </div>
+
+
